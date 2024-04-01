@@ -8,6 +8,6 @@ My name is Allan Wachira and I am a full-stack web developer.<br>I blend creativ
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=allano0&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=allano0&theme=synthwave&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=allano0&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 
