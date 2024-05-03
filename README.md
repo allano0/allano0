@@ -1,6 +1,6 @@
 # 💫 About Me
 Hi there, I'm glad you could make it!<br>
-My name is Allan Wachira and I am a full-stack web developer.<br>I blend creativity with technology to craft captivating digital experiences.<br>Let's collaborate and bring your ideas to life!
+My name is Allan Wachira and I am a full-stack software developer.<br>I blend creativity with technology to craft captivating digital experiences.<br>Let's collaborate and bring your ideas to life!
 
 
 # 💻 Tools box
