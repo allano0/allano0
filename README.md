@@ -1,6 +1,8 @@
 
 ![Dev img](https://camo.githubusercontent.com/e6a13441b404efc6432d97b384b403d60ee0a965a8c9f7760ffb76749e8b544b/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3634302f312a64634c34516f5936347439724f734c51704e59774a672e676966)
-#About Me
+
+# About Me
+
 Hi there, I'm glad you could make it!<br>
 My name is Allan Wachira and I am a full-stack software developer.<br>I blend creativity with technology to craft captivating digital experiences.<br>Let's collaborate and bring your ideas to life!
 
